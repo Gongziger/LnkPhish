@@ -5,6 +5,7 @@
 **Shortcut Generator Tool** is a Python-based application that allows you to create shortcuts with custom icons for local and remote files. The tool can generate `.lnk` files that you can use to quickly access files or applications on your desktop or other locations. It also supports adding execution parameters for more advanced use cases.  
 **快捷方式生成工具**是一个基于Python的应用程序，允许您为本地和远程文件创建带有自定义图标的快捷方式。该工具可以生成`.lnk`文件，您可以用它们快速访问桌面或其他位置的文件或应用程序。它还支持添加执行参数以满足更高级的使用需求。
 
+![Tool Screenshot](Tool.jpg)
 ## Features / 功能
 
 - **Create Shortcuts**: Create shortcuts for local files or remote links.  
